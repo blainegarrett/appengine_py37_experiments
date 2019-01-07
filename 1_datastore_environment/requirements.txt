@@ -1,0 +1,5 @@
+# Install these via pip install -r requirements.txt
+Flask==1.0.2
+google-cloud-datastore==1.7.1
+
+nose
